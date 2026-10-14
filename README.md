@@ -2,7 +2,7 @@
 
 Dashboard interativa, em **um único arquivo HTML**, que transforma uma planilha de 100 vendas da Porsche em respostas de negócio. Sem servidor, sem dependências de build: abre direto no navegador e roda no GitHub Pages.
 
-**Dashboard publicada:** https://SEU-USUARIO.github.io/porsche-dashboard-vendas/
+**Dashboard publicada:** https://vldbarbos-oss.github.io/porsche-dashboard-vendas/
 
 ![Visão geral da dashboard](docs/dashboard-completo.png)
 
